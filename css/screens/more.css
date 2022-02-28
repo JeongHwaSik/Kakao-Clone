@@ -51,5 +51,10 @@
     height: 8px;
     border-radius: 50%;
     position: absolute;
-    right: 60px;
+    right: -10px;
+    bottom: 30px;
+}
+
+.fa-face-grin{
+    position: relative;
 }
